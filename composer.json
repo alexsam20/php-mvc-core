@@ -1,0 +1,10 @@
+{
+    "name": "mvc/php-mvc-core",
+    "authors": [
+        {
+            "name": "Alexandr",
+            "email": "alsam3637@gmail.com"
+        }
+    ],
+    "require": {}
+}
